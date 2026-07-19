@@ -1,4 +1,4 @@
-```markdown
+
 # Excel Accounting & Financial Analysis Projects
 
 ### **01_AP_Invoice_Automation_Discrepancy_Engine.xlsx**
